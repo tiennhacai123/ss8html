@@ -1,0 +1,14 @@
+*{
+    margin: 3px;
+    padding: 0;
+    box-sizing: border-box;
+}
+.color {
+    background-color: yellow;
+}
+.box1 {
+    padding: 20px;
+    background-color: rgb(245, 197, 128);
+    width: 260px;
+    
+}
